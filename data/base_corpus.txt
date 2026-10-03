@@ -1,0 +1,320 @@
+Anna called me after dinner.
+Anna loves coffee.
+Anna loves dinner.
+Anna loves salad.
+Anna loves soup.
+Ben called me after dinner.
+Ben loves bread.
+Ben loves coffee.
+Ben loves lunch.
+Ben loves salad.
+Cara called me after dinner.
+Cara loves coffee.
+Cara loves dinner.
+Cara loves pasta.
+Cara loves salad.
+Cara loves tea.
+Dan called me after dinner.
+Dan loves bread.
+Dan loves coffee.
+Dan loves tea.
+Ella called me after dinner.
+Ella loves cake.
+Ella loves dinner.
+Ella loves pasta.
+Fred called me after dinner.
+Fred loves coffee.
+Fred loves dinner.
+Fred loves pizza.
+Fred loves tea.
+Gina called me after dinner.
+Gina loves cake.
+Gina loves lunch.
+Gina loves salad.
+Gina loves soup.
+Hugo called me after dinner.
+Hugo loves cake.
+Hugo loves coffee.
+Hugo loves pizza.
+Hugo loves soup.
+Iris called me after dinner.
+Iris loves bread.
+Iris loves dinner.
+Iris loves lunch.
+Jack called me after dinner.
+Jack loves bread.
+Jack loves lunch.
+Jack loves pasta.
+Jack loves salad.
+he drove the bike to work.
+he drove the bus to work.
+he drove the car to work.
+he drove the train to work.
+he finished the budget before lunch.
+he finished the email before lunch.
+he finished the presentation before lunch.
+he finished the proposal before lunch.
+he finished the report before lunch.
+he finished the spreadsheet before lunch.
+i bought bread at the cafe.
+i bought bread at the park.
+i bought bread at the store.
+i bought cake at the gym.
+i bought cake at the market.
+i bought cake at the park.
+i bought cake at the station.
+i bought coffee at the school.
+i bought dinner at the beach.
+i bought dinner at the office.
+i bought dinner at the school.
+i bought dinner at the store.
+i bought lunch at the gym.
+i bought lunch at the office.
+i bought lunch at the park.
+i bought pasta at the beach.
+i bought pasta at the office.
+i bought pasta at the station.
+i bought pizza at the gym.
+i bought pizza at the library.
+i bought pizza at the market.
+i bought pizza at the store.
+i bought salad at the beach.
+i bought salad at the park.
+i bought salad at the store.
+i bought soup at the gym.
+i bought soup at the market.
+i bought tea at the market.
+i bought tea at the park.
+i cooked bread for dinner.
+i cooked cake for dinner.
+i cooked coffee for dinner.
+i cooked dinner for dinner.
+i cooked lunch for dinner.
+i cooked pasta for dinner.
+i cooked pizza for dinner.
+i cooked salad for dinner.
+i cooked soup for dinner.
+i cooked tea for dinner.
+i like my bread with extra cheese.
+i like my cake with extra cheese.
+i like my coffee with extra cheese.
+i like my dinner with extra cheese.
+i like my lunch with extra cheese.
+i like my pasta with extra cheese.
+i like my pizza with extra cheese.
+i like my salad with extra cheese.
+i like my soup with extra cheese.
+i like my tea with extra cheese.
+i need to send an budget today.
+i need to send an email today.
+i need to send an presentation today.
+i need to send an proposal today.
+i need to send an report today.
+i need to send an spreadsheet today.
+i read the book in the evening.
+i read the magazine in the evening.
+i read the newspaper in the evening.
+i read the novel in the evening.
+i read the report in the evening.
+i walked to the beach.
+i walked to the cafe.
+i walked to the gym.
+i walked to the library.
+i walked to the market.
+i walked to the office.
+i walked to the park.
+i walked to the school.
+i walked to the station.
+i walked to the store.
+it rained all afternoon.
+it rained all evening.
+it rained all morning.
+it rained all sky.
+it rained all weather.
+my cat sleeps on the bed.
+my cat sleeps on the couch.
+my cat sleeps on the rug.
+my cat sleeps on the table.
+my dog sleeps on the bed.
+my dog sleeps on the couch.
+my dog sleeps on the rug.
+my dog sleeps on the table.
+our team meets every friday.
+our team meets every monday.
+our team meets every saturday.
+our team meets every sunday.
+our team meets every tuesday.
+she baked bread yesterday.
+she baked cake yesterday.
+she baked coffee yesterday.
+she baked dinner yesterday.
+she baked lunch yesterday.
+she baked pasta yesterday.
+she baked pizza yesterday.
+she baked salad yesterday.
+she baked soup yesterday.
+she baked tea yesterday.
+she enjoys reading books on weekends.
+she enjoys reading magazines on weekends.
+she enjoys reading newspapers on weekends.
+she enjoys reading novels on weekends.
+she enjoys reading reports on weekends.
+she takes the bike to school.
+she takes the bus to school.
+she takes the car to school.
+she takes the train to school.
+she wrote a budget this morning.
+she wrote a email this morning.
+she wrote a presentation this morning.
+she wrote a proposal this morning.
+she wrote a report this morning.
+she wrote a spreadsheet this morning.
+the afternoon is cold today.
+the afternoon is fresh today.
+the afternoon is long today.
+the afternoon is nice today.
+the afternoon is quiet today.
+the afternoon is sunny today.
+the afternoon is warm today.
+the beach opens at nine.
+the bike arrived on time.
+the book was very interesting.
+the bread smells delicious.
+the bus arrived on time.
+the cafe opens at nine.
+the cake smells delicious.
+the car arrived on time.
+the cat played in the beach.
+the cat played in the cafe.
+the cat played in the gym.
+the cat played in the library.
+the cat played in the market.
+the cat played in the office.
+the cat played in the park.
+the cat played in the school.
+the cat played in the station.
+the cat played in the store.
+the coffee smells delicious.
+the dinner smells delicious.
+the dog played in the cafe.
+the dog played in the gym.
+the dog played in the library.
+the dog played in the market.
+the dog played in the office.
+the dog played in the park.
+the dog played in the school.
+the dog played in the station.
+the dog played in the store.
+the evening is long today.
+the evening is nice today.
+the evening is short today.
+the evening is warm today.
+the gym opens at nine.
+the library opens at nine.
+the lunch smells delicious.
+the magazine was very interesting.
+the market opens at nine.
+the meeting starts at noon.
+the morning is beautiful today.
+the morning is long today.
+the morning is nice today.
+the newspaper was very interesting.
+the novel was very interesting.
+the office opens at nine.
+the park opens at nine.
+the pasta smells delicious.
+the pizza smells delicious.
+the report was very interesting.
+the salad smells delicious.
+the school opens at nine.
+the sky is long today.
+the sky is short today.
+the sky is sunny today.
+the sky is warm today.
+the soup smells delicious.
+the store opens at nine.
+the tea smells delicious.
+the train arrived on time.
+the weather is busy today.
+the weather is cold today.
+the weather is fresh today.
+the weather is long today.
+the weather is nice today.
+the weather is quiet today.
+they took the bike downtown.
+they took the bus downtown.
+they took the car downtown.
+they took the train downtown.
+they visited the beach on monday.
+they visited the beach on sunday.
+they visited the cafe on friday.
+they visited the cafe on sunday.
+they visited the library on friday.
+they visited the library on saturday.
+they visited the market on saturday.
+they visited the market on sunday.
+they visited the market on tuesday.
+they visited the office on saturday.
+they visited the office on sunday.
+they visited the park on friday.
+they visited the park on saturday.
+they visited the school on saturday.
+they visited the school on sunday.
+they visited the station on friday.
+they visited the station on monday.
+they visited the station on tuesday.
+they visited the store on monday.
+they visited the store on saturday.
+we ate bread at the beach.
+we ate bread at the market.
+we ate bread at the park.
+we ate cake at the office.
+we ate cake at the park.
+we ate coffee at the cafe.
+we ate coffee at the market.
+we ate coffee at the station.
+we ate dinner at the cafe.
+we ate dinner at the gym.
+we ate dinner at the market.
+we ate dinner at the office.
+we ate lunch at the cafe.
+we ate lunch at the gym.
+we ate lunch at the library.
+we ate pasta at the beach.
+we ate pasta at the cafe.
+we ate pasta at the library.
+we ate pasta at the office.
+we ate pasta at the park.
+we ate pizza at the beach.
+we ate pizza at the cafe.
+we ate pizza at the gym.
+we ate pizza at the library.
+we ate pizza at the park.
+we ate pizza at the school.
+we ate pizza at the store.
+we ate salad at the beach.
+we ate salad at the gym.
+we ate salad at the station.
+we ate soup at the cafe.
+we ate soup at the market.
+we ate soup at the school.
+we ate soup at the station.
+we ate soup at the store.
+we ate tea at the cafe.
+we ate tea at the gym.
+we ate tea at the store.
+we cleaned the bed this morning.
+we cleaned the couch this morning.
+we cleaned the rug this morning.
+we cleaned the table this morning.
+we discussed the budget at lunch.
+we discussed the email at lunch.
+we discussed the presentation at lunch.
+we discussed the proposal at lunch.
+we discussed the report at lunch.
+we discussed the spreadsheet at lunch.
+we watched a movie on friday night.
+we watched a movie on monday night.
+we watched a movie on saturday night.
+we watched a movie on sunday night.
+we watched a movie on tuesday night.
