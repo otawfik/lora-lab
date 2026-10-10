@@ -2,6 +2,8 @@
 
 [![tests](https://github.com/otawfik/lora-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/otawfik/lora-lab/actions/workflows/ci.yml)
 
+**[▶ Live demo](https://lora-lab.vercel.app)**
+
 Fine-tune a tiny language model with a LoRA-style adapter, then A/B the
 adapted model against the base model side by side. The demo teaches the
 model to talk like a pirate.
