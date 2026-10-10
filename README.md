@@ -1,5 +1,7 @@
 # LoRA Lab
 
+[![tests](https://github.com/otawfik/lora-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/otawfik/lora-lab/actions/workflows/ci.yml)
+
 Fine-tune a tiny language model with a LoRA-style adapter, then A/B the
 adapted model against the base model side by side. The demo teaches the
 model to talk like a pirate.
@@ -11,6 +13,8 @@ n-gram language model, and the adapter is a genuine low-rank update
 every base weight stays frozen. It is the real LoRA mechanism, just at
 toy scale. See [SCALING.md](SCALING.md) for how to swap in production
 LoRA with `peft` and Hugging Face transformers.
+
+![LoRA Lab: the same prompt through the base model and the pirate adapter, side by side](screenshots/app.jpg)
 
 ## Demo
 
