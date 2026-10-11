@@ -1,1 +1,12 @@
-X19weWNhY2hlX18vCioucHlbY29kXQoqLm5wegohd2VpZ2h0cy8qLm5wegoudmVudi8KdmVudi8KLmVudgouZW52LioKIS5lbnYuZXhhbXBsZQouRFNfU3RvcmUKLnB5dGVzdF9jYWNoZS8KKi5weWMK
+__pycache__/
+*.py[cod]
+*.npz
+!weights/*.npz
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+.pytest_cache/
+*.pyc
